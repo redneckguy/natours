@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page with natours",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redneckguy/natours.git"
+  },
+  "author": "Dimitry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redneckguy/natours/issues"
+  },
+  "homepage": "https://github.com/redneckguy/natours#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
